@@ -1,4 +1,4 @@
-**Project Title : Power BI Sales Dashboard**
+**Project Title : Power BI Sales Analysis Dashboard**
 
 **1. Project Overview**
 

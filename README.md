@@ -1,4 +1,5 @@
 **Power BI Sales Dashboard:-**
+
 This project is a complete Power BI dashboard built using a multi-table Excel dataset containing Sales, Products, Salesperson, and Geographical data.
 The objective of the project is to analyze revenue, profit, customer count, product performance, and region-wise sales trends using interactive visuals.
 

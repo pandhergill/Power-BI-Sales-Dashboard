@@ -28,6 +28,7 @@ The objective of the project is to analyze revenue, profit, customer count, prod
 * Region
 
 **This dashboard helps stakeholders quickly understand.**
+
 **Project Purpose**
 * Which regions perform best
 * Which products are most profitable
